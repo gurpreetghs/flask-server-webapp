@@ -1,0 +1,4 @@
+flask
+
+imp:
+store your videos in static/video folder
